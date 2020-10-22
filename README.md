@@ -1,11 +1,11 @@
 ## Présentation
 Entrainement sur les BDD avec un exercice Doctor/Patient.<br/>
 <br/>
-####Table à afficher avec table_print dans la console Rails:<br/>
-*Doctor
-*Patient
-*City
-*Appointment
+Table à afficher avec table_print dans la console Rails:<br/>
+* Doctor
+* Patient
+* City
+* Appointment
 <br/>
 <br/>
 ## Instructions
