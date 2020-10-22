@@ -14,7 +14,7 @@ $ rails db:migrate <br/>
 $ rails db:seed <br/>
 $ rails c <br/>
 <br/>
-Pour voir toutes les tables de la base de données: <br/>
+Pour voir toutes les tables de la BDD dans la console: <br/>
 2.7.1 :001 > tp City.all <br/>
 2.7.1 :002 > tp Doctor.all <br/>
 2.7.1 :003 > tp Patient.all <br/>
