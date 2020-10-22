@@ -8,6 +8,7 @@ Table à afficher avec table_print dans la console Rails:<br/>
 * Appointment
 <br/>
 <br/>
+
 ## Instructions
 $ bundle install <br/>
 $ rails db:migrate <br/>
@@ -21,5 +22,6 @@ Pour voir toutes les tables de la BDD dans la console: <br/>
 2.7.1 :004 > tp Appointment.all <br/>
 <br/>
 <br/>
+
 ## Améliorations
 Rajouter une table N-N entre les spécialités et les docteurs
