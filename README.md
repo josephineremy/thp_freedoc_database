@@ -1,7 +1,7 @@
 ## Présentation
 Entrainement sur les BDD avec un exercice Doctor/Patient.<br/>
 <br/>
-Table à afficher avec table_print dans la console Rails:<br/>
+####Table à afficher avec table_print dans la console Rails:<br/>
 *Doctor
 *Patient
 *City
